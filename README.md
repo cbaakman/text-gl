@@ -2,7 +2,7 @@
 A libray that facilitates working with text rendering in OpenGL.
 
 The only supported input font format is SVG. (for now)
-See: https://www.w3.org/TR/SVG11/fonts.html
+See: https://www.w3.org/TR/SVG11/fonts.html.
 Horizontal kerning is also supported. Either by class or by table.
 
 See also the wiki at https://github.com/cbaakman/text-gl/wiki to find out how to import fonts and render text.
