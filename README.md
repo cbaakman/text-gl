@@ -1,4 +1,4 @@
-# Text GL 1.0.0
+# Text GL 1.0.1
 A libray that facilitates working with text rendering in OpenGL.
 
 The only supported input font format is SVG. (for now)
